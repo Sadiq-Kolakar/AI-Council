@@ -1,4 +1,4 @@
-# 🧠 AI Council Chat
+#  AI Council 
 
 A real-time multi-AI chat arena where you can converse with GPT, Claude, Gemini, and Grok — all in one interface. Ask one model or pit them all against each other.
 
@@ -6,7 +6,7 @@ A real-time multi-AI chat arena where you can converse with GPT, Claude, Gemini,
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Multi-Model Chat** — Talk to GPT-4o, Claude Sonnet, Gemini Flash, and Grok simultaneously
 - **Mention System** — Use `@gpt`, `@claude`, `@gemini`, `@grok` to target specific models, or just send a message to query all
@@ -21,7 +21,7 @@ A real-time multi-AI chat arena where you can converse with GPT, Claude, Gemini,
 
 ---
 
-## 🏗️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - **React 19** with TypeScript
@@ -38,7 +38,7 @@ A real-time multi-AI chat arena where you can converse with GPT, Claude, Gemini,
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ai-council-chat/
@@ -79,7 +79,7 @@ ai-council-chat/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -125,9 +125,9 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
 
-## 💬 How to Use
+##  How to Use
 
-| Command | Action |
+| Eg. Commands | Action |
 |---|---|
 | `@gpt What is gravity?` | Ask only GPT |
 | `@claude Explain quantum computing` | Ask only Claude |
@@ -139,7 +139,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
 
-## 🎨 UI Components
+##  UI Components
 
 ### Background Paths (Hero)
 Animated SVG path background with spring-animated title text and CTA button. Built with Framer Motion.
@@ -152,7 +152,7 @@ Fully variant-based button component using Class Variance Authority (CVA) with s
 
 ---
 
-## 🔧 Configuration
+##  Configuration
 
 ### Models
 
@@ -167,13 +167,13 @@ Each model is routed through OpenRouter with its own system prompt:
 
 ---
 
-## 📜 License
+##  License
 
 MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [OpenRouter](https://openrouter.ai/) for unified AI model access
 - [shadcn/ui](https://ui.shadcn.com/) for the component system
